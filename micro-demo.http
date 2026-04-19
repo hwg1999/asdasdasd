@@ -1,0 +1,48 @@
+@host = http://127.0.0.1:4000
+@baseUrl = {{host}}/api/v1
+
+# 先执行“用户登录”，再把返回的 token 填到这里。
+# 支持两种写法：纯 token，或 Bearer <token>。
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZXhwIjoxNzc2NzAwNzAxLCJpc3MiOiJ0b2RvTGlzdCJ9.cQHzIftPrk_7_xnomJNg1KYOMofM2K139Rw4E4MagDQ
+
+### 用户注册
+POST {{baseUrl}}/user/register
+Content-Type: application/x-www-form-urlencoded
+
+user_name=FanOne11&password=12345678&password_confirm=12345678
+
+### 用户登录
+POST {{baseUrl}}/user/login
+Content-Type: application/x-www-form-urlencoded
+
+user_name=FanOne11&password=12345678
+
+### 测试 token 连接
+GET {{baseUrl}}/ping
+Authorization: {{token}}
+
+### 创建备忘录
+POST {{baseUrl}}/task
+Authorization: {{token}}
+Content-Type: application/x-www-form-urlencoded
+
+title=FanOne&content=%E7%82%B9%E8%B5%9E%EF%BC%81&status=0
+
+### 获取备忘录列表
+GET {{baseUrl}}/tasks
+Authorization: {{token}}
+
+### 获取备忘录详情
+GET {{baseUrl}}/task/1
+Authorization: {{token}}
+
+### 更新备忘录
+PUT {{baseUrl}}/task/1
+Authorization: {{token}}
+Content-Type: application/x-www-form-urlencoded
+
+title=11111&content=%E6%94%B6%E8%97%8F&status=1
+
+### 删除备忘录
+DELETE {{baseUrl}}/task/1
+Authorization: {{token}}

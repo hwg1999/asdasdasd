@@ -1,0 +1,67 @@
+# 面试题
+[Qt 常用面试题整理(不定时整理)_牛客网](https://www.nowcoder.com/discuss/455307982692196352)
+[C++ Qt面试题 | 精选25题-CSDN博客](https://blog.csdn.net/m0_73443478/article/details/143335393)
+[Qt 面试指南（内含面试题） - 知乎](https://zhuanlan.zhihu.com/p/671808272)
+[嵌入式面试题八股文（C++,QT）_qt面试八股文-CSDN博客](https://blog.csdn.net/wangjiaheng0716/article/details/142626735?spm=1001.2014.3001.5506)
+[Qt开发笔试面试核心资料全解析-CSDN博客](https://blog.csdn.net/weixin_30674431/article/details/152270615?spm=1001.2014.3001.5506)
+
+# 面经
+[C++社招面经【C++/QT】_牛客网](https://www.nowcoder.com/discuss/760176292250578944)
+[字节跳动C++/Qt PC客户端面试题精选 - 知乎](https://zhuanlan.zhihu.com/p/531139706)
+[字节跳动 C++/QT PC客户端面试 凉经 （社招）_牛客网](https://www.nowcoder.com/discuss/353159138563792896)
+
+# qt源码剖析
+[Qt源码解析——一切从QObject说起 - 知乎](https://zhuanlan.zhihu.com/p/661858767)
+[Qt源码剖析- - 师从名剑山 - 博客园](https://www.cnblogs.com/codegb/collections/3929)
+[Matarialize中文社区-深入解析 Qt 源码与框架：结构剖析与定制实现](https://m.materializecss.cn/blog/detail?artcleId=714)
+[Qt之事件循环源码剖析（一）-----源码面前了无秘密_qt事件驱动机制原理及源码剖析-CSDN博客](https://blog.csdn.net/LoveMeee/article/details/135920126)[QT元对象系统特性详细介绍（信号槽、类型信息、动态设置属性）（注释）-CSDN博客](https://blog.csdn.net/ZJQSDSA/article/details/142501491?spm=1001.2014.3001.5506)
+[Qt 中 deleteLater 使用总结_qt deletater-CSDN博客](https://blog.csdn.net/kangkanglhb88008/article/details/127562366?spm=1001.2014.3001.5506)
+[QT核心模块源码解析：组件化开发与模块化设计_qt 模块化开发-CSDN博客](https://blog.csdn.net/mtyxb/article/details/144126467?spm=1001.2014.3001.5506)
+[QT核心模块源码解析：跨平台开发实践_qtcore 模块-CSDN博客](https://blog.csdn.net/mtyxb/article/details/143791675?spm=1001.2014.3001.5506)
+[【Qt 底层机制之图形渲染引擎】深入理解 Qt 的 渲染机制：从基础渲染到高级图形_qt 渲染-CSDN博客](https://blog.csdn.net/qq_21438461/article/details/135564387?spm=1001.2014.3001.5506)
+[Qt 事件机制源码分析 QApplication exec 源码分析 多图超级详细-CSDN博客](https://blog.csdn.net/weixin_42837024/article/details/119669713?spm=1001.2014.3001.5506)
+[Qt qwidget 源码剖析 (一)_qwidget源码-CSDN博客](https://blog.csdn.net/weixin_42837024/article/details/105122724?spm=1001.2014.3001.5506)
+[QT原理与源码分析之QT5原理与源码分析视频课程 补天云QT技术培训-CSDN博客](https://blog.csdn.net/mtyxb/article/details/132130626?spm=1001.2014.3001.5506)
+[qt-渲染原理_qt渲染机制-CSDN博客](https://blog.csdn.net/LIJIWEI0611/article/details/124242919?spm=1001.2014.3001.5506)
+
+# 所有
+[0voice/Campus_recruitment_interview_questions: 2025 最新校招面试题合集， 面向 2026 届应届生，全网最全整理！收录 1000+道真实面试题以及面经，涵盖阿里、腾讯、字节、美团、百度、华为、小米、英伟达、微软、米哈游等百家大中小厂。每题配备视频解析 or 文字讲解，持续更新中，助力拿下 Dream Offer！](https://github.com/0voice/Campus_recruitment_interview_questions)
+
+# 大全
+[C++ 八股](https://cppinterview.albresky.cn/)
+[编程指北 X 计算机学习指南 | 编程指北-计算机学习指南](https://csguide.cn/)
+[阿秀的学习笔记](https://interviewguide.cn/)
+[卡码笔记｜最强八股文| 程序员面试题库 | 大厂面试题（大模型开发/Java/C++/Go/Python/计算机基础）|面经](https://notes.kamacoder.com/)
+[八股速记](https://lansongxx.github.io/MyStudyNote/)
+[huihut/interview: 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.](https://github.com/huihut/interview)
+
+# qt学习
+[QT入门看这一篇就够了——超详细讲解（40000多字详细讲解，涵盖qt大量知识）-CSDN博客](https://blog.csdn.net/m0_65635427/article/details/130780280?spm=1001.2014.3001.5506)
+[【QT八股文】系列之篇章1 | QT的基础知识及事件/机制-CSDN博客](https://blog.csdn.net/qq_41895003/article/details/135113814?spm=1001.2014.3001.5506)
+[QT自定义QTableView的Model/View_qtableview自定义model-CSDN博客](https://blog.csdn.net/hzt12345hf/article/details/103366407?spm=1001.2014.3001.5506)
+[QT利用QTableView和自定义Model实现一个增删改查等功能超全的复用型表格_qt自定义可编辑model示例-CSDN博客](https://blog.csdn.net/CodeWorld1999/article/details/136680377?spm=1001.2014.3001.5506)
+[探索Qt的ListView组件与Model/View架构实战-CSDN博客](https://blog.csdn.net/weixin_42186387/article/details/142447963?spm=1001.2014.3001.5506)
+[Qt 模型Model/视图View/代理Delegate_qt model-CSDN博客](https://blog.csdn.net/weixin_44629261/article/details/144758144?spm=1001.2014.3001.5506)
+[QT笔记总结——知识点回顾（自用）_qt开发笔记-CSDN博客](https://blog.csdn.net/qq_55655082/article/details/133578032?spm=1001.2014.3001.5506)
+[Qt项目架构经验总结-CSDN博客](https://blog.csdn.net/m0_46577050/article/details/123786886?spm=1001.2014.3001.5506)
+[Qt Model/View框架详解1-CSDN博客](https://blog.csdn.net/m0_73482095/article/details/135368444?spm=1001.2014.3001.5506)
+[Qt整体组织架构、六大模块及跨平台处理模块分析_qt架构-CSDN博客](https://blog.csdn.net/u013230469/article/details/146444130?spm=1001.2014.3001.5506)
+[QT入门看这一篇就够（详解含qt源码）-CSDN博客](https://blog.csdn.net/arv002/article/details/133785137?spm=1001.2014.3001.5506)
+[Qt5开发实战：从入门到精通的完整源码实例项目-CSDN博客](https://blog.csdn.net/weixin_31591833/article/details/153474796?spm=1001.2014.3001.5506)
+[Qt入门教程100篇（已完结）_qt教程-CSDN博客](https://blog.csdn.net/hiwoshixiaoyu/article/details/125196442?spm=1001.2014.3001.5506)
+[【Qt】边学边写之Qt教程（零基础）-CSDN博客](https://blog.csdn.net/weixin_51568389/article/details/127611678?spm=1001.2014.3001.5506)
+[Qt 渲染机制-CSDN博客](https://blog.csdn.net/qq_34139994/article/details/105366784?spm=1001.2014.3001.5506)
+[QT核心模块源码解析：图形渲染与硬件加速_qt 渲染类 源码-CSDN博客](https://blog.csdn.net/mtyxb/article/details/143843792?spm=1001.2014.3001.5506)
+[QT项目实践 轻量级 QT编程从基础到高级-CSDN博客](https://blog.csdn.net/qtprofessional/article/details/153265617?spm=1001.2014.3001.5506)
+[（一）Qt实现自定义控件的两种方式---提升法_qt自定义控件-CSDN博客](https://blog.csdn.net/XCJandLL/article/details/125574535?spm=1001.2014.3001.5506)
+[Qt之QPluginLoader使用插件子项目及插件间通信（简易框架）（含部分源码+注释）-CSDN博客](https://blog.csdn.net/wj584652425/article/details/136359235?spm=1001.2014.3001.5506)
+[Qt 图形视图 /基于Qt示例DiagramScene解读图形视图框架-CSDN博客](https://blog.csdn.net/quguanxin/article/details/135739677?spm=1001.2014.3001.5506)
+[[Qt]Qt框架解析：从入门到精通，探索平台开发的无限可能-CSDN博客](https://blog.csdn.net/m0_75045191/article/details/132946734?spm=1001.2014.3001.5506)
+
+
+# 资料
+[Qt基础入门到进阶实战资料大全（纯干货，超详细，随时更新）_qt实战-CSDN博客](https://blog.csdn.net/qq_41488943/article/details/105009262?spm=1001.2014.3001.5506)
+
+# 项目
+[(99+ 封私信 / 81 条消息) 20个优质Qt开源项目集合 - 知乎](https://zhuanlan.zhihu.com/p/1928458634314101950)
+[Github上的一些高分Qt开源项目【多图】_github上好的qt项目-CSDN博客](https://blog.csdn.net/ccf19881030/article/details/113007901)
